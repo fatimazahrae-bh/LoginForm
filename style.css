@@ -134,12 +134,7 @@ a:hover {
     transition: 0.5s;
 }
 
-.success{
-    border: solid 5px red;
-}
-.border{
-    border: solid 5px green;
-}
+
 
 @media screen and (max-width: 1050px){
     .container{
@@ -168,3 +163,4 @@ a:hover {
         justify-content: center;
     }
 }
+
